@@ -28,11 +28,13 @@ The dataset consists of  the following rows and columns:
   The column in the dataset includes: unnamed, Restaurant, url,  Category, Distance, Star, and num_reviews.
 
 # Data Cleaning
-While conducting the data cleaning,  the workbook dataset  of each city  was combined using Append in Power BI. The  final dataset now consists of  3298 rows and 8 rows  to carry out the analysis. The first column(unnamed) was renamed as column1 consisting of just numbers was removed.
+While conducting the data cleaning,  the workbook dataset  of each city  was combined using Append in Power BI. 
+The  final dataset now consists of  3298 rows and 8 rows  to carry out the analysis. The first column(unnamed) was renamed as column1 consisting of just numbers was removed.
 The distance column  had a combination of  time and distance that was separated with a dot. The column was split to time and distance column separately.  Some of the distance data was inputted in ft and mi and I converted the column distance to mi.
 In addition, the category column consists of price symbol sign and the category of product delivered to clients. Then the column was split to price, category 1, and category 2. Also, the num review column was cleaned by removing the brackets. 
 
 # Analysis and Insights
 The analysis was conducted using Power Business Intelligence(Power BI).
 From the 3298 rows  data of door dash delivery  in  Brampton, Toronto, Vancouver, Calgary,  Montreal, Ottawa, Edmonton. and Winnipeg, the following insights was carried out in the process of the analysis:
+
 •	Restaurant: “Toronto” has the highest number of restaurant( 844 restaurant  ) which  is  7 times more  than the “ Brampton (118 restaurant )” the  city with the lowest  number of  restaurant.
