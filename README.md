@@ -10,13 +10,21 @@ To analyze the door dash food delivery across Canada  and gain insight to what c
 # Data Structure
 The dataset consists of  the following rows and columns:
 118 Rows and 7 Columns of order transaction in Brampton
+
 369 Rows and 7 Columns of order transaction in Calgary
+
 268 Rows and 7 Columns of order transaction in Edmonton
+
 568 Rows and 7 Columns of order transaction in Montreal
+
 239 Rows and 7 Columns of order transaction in Ottawa
+
 844 Rows and 8 Columns of order transaction in Toronto
+
 694 Rows and 8 Columns of order transaction in Vancouver and 
+
 198 Rows and 8  Columns of order transaction in Winnipeg.
+
   The column in the dataset includes: unnamed, Restaurant, url,  Category, Distance, Star, and num_reviews.
 
 # Data Cleaning
