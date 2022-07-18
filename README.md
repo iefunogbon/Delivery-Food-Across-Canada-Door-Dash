@@ -2,6 +2,10 @@
 
 FOOD DELIVERY ACROSS CANADA -DOOR DASH ANALYSIS REPORT USING POWER BI
 I played the role of a Junior Data Analyst at TnetPro Limited, Luton United Kingdom to analyze the dataset of Door dash Food Delivery across Canada.
+
+![image](https://user-images.githubusercontent.com/109202217/179434266-b51788d9-8e48-47f6-a9f4-fae227df1ba6.png)
+Image: From the Web
+
  
 
 # Objective
